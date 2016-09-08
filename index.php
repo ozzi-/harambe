@@ -13,7 +13,7 @@
 	}
 ?>
 <!DOCTYPE html>
-<html data-ng-app="politikompakt">
+<html>
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -75,7 +75,7 @@
 		</div>
 		<br><br>
 		<div class="footer">
-			<marquee behavior="scroll" direction="left">Dicks out for Harambe</marquee>
+			<marquee behavior="scroll" direction="left">RIP Harambe</marquee>
 		</div>
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>

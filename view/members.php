@@ -5,7 +5,7 @@
 		die("Error loading the members file. Please call the admin silly names for his crime.");
 	}
 	$membersFileContent=preg_replace( "/\r|\n/", "", $membersFileContent);
-	$members = explode(";",$membersFileContent);
+	$members = explode("+",$membersFileContent);
 ?>
 <h2>Members</h2>
 <b>Legend:</b><br>
