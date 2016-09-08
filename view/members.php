@@ -1,5 +1,5 @@
 <?php
-	$membersFilePath="/../data/members";
+	$membersFilePath=__DIR__."/../data/members";
 	$membersFileContent = @file_get_contents($membersFilePath,true);
 	if($membersFileContent=== FALSE){
 		die("Error loading the members file. Please call the admin silly names for his crime.");
