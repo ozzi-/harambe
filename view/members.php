@@ -7,7 +7,7 @@
 	$membersFileContent=preg_replace( "/\r|\n/", "", $membersFileContent);
 	$members = explode("+",$membersFileContent);
 ?>
-<h2>Members</h2>
+<h2>Members (<?= count($members) ?>)</h2>
 <b>Legend:</b><br>
 <span class="glyphicon glyphicon-star" aria-hidden="true"></span> Supreme Leader
 <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> First Lady
