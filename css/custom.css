@@ -1,11 +1,9 @@
-body{
-}
-
 .innercontainer{
 	margin: 0 auto;
+	font-size:110%;
 	min-height: 600px;
-    height: auto !important;
-    height: 600px;
+	height: auto !important;
+	height: 600px;
 	padding-top: 20px;
 	width:100%;
 }
@@ -15,8 +13,8 @@ body{
 	border: 1px solid #e7e7e7;
 	height:40px;
 	position: fixed;
-    z-index: 100; 
-    bottom: 0; 
-    left: 0;
-    width: 100%;
+	z-index: 100; 
+	bottom: 0; 
+	left: 0;
+	width: 100%;
 }
