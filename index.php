@@ -21,7 +21,7 @@
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/custom.css" rel="stylesheet">
 	</head>
-	<body>
+	<body style="background-image: url(' img/ignasi_pattern_s.png')">
 		<div class="container">
 			<div class="innercontainer">
 				<nav class="navbar navbar-default navbar-fixed-top">
@@ -81,4 +81,3 @@
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	</body>
 </html>
-

@@ -13,3 +13,5 @@ Such as:
 <br>
 We would consider ourselves a 'fun' clan, no serious <i>hardcore mlg gaming</i>.<br>
 Just people liking to play with other people. Alothough competitve gameplay is enjoyed by us too from time to time.<br>
+<br>
+<img class="img-responsive img-middle" src="img/icon.png">
