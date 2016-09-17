@@ -11,6 +11,7 @@
 <b>Legend:</b><br>
 <span class="glyphicon glyphicon-star" aria-hidden="true"></span> Supreme Leader
 <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> First Lady
+<span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> Veteran
 <span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Member
 <br><br>
 <ul class="list-group">
@@ -29,6 +30,9 @@ foreach ($members as $member){
 				break;
 			case 'l': // leader
 				$memberStatusGlyph="star";
+				break;
+			case 'v': // fl
+				$memberStatusGlyph="bookmark";
 				break;
 			case 'f': // fl
 				$memberStatusGlyph="heart";
