@@ -1,0 +1,4 @@
+- Media page (YT videos, pics)
+- Favicon
+- Add final logo + thumbnail for navbar
+- steam group visualizer

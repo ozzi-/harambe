@@ -49,6 +49,11 @@
 										<span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Join
 									</a>
 								</li>
+								<li <?= $viewName==='media'?'class="active"':''; ?>>
+									<a href="?v=media">
+										<span class="glyphicon glyphicon-film" aria-hidden="true"></span> Media
+									</a>
+								</li>
 								<li <?= $viewName==='faq'?'class="active"':''; ?>>
 									<a href="?v=faq">
 										<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> FAQ
