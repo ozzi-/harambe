@@ -1,8 +1,8 @@
 <h2>Join</h2>
 <div class="row">
 	<div class="col-md-6">
-		So you want to join? (We usually are online from 17:00-22:00 UTC.)<br>
-		Well then better connect to our Discord.<br>
+		So you want to join? <br>
+		Well then better connect to our Discord. (We are usually online from 17:00-22:00 UTC.)<br>
 		<br>
 		<?php
 			include("includes/steamgroup.php");
