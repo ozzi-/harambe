@@ -8,6 +8,7 @@ Such as:
 	<li>Rainbow Six Siege</li>
 	<li>Age of Empires 2</li>
 	<li>Overwatch</li>
+	<li>Rocket League</li>
 	<li>And many more</li>
 </ul>
 <br>
