@@ -8,6 +8,14 @@
 	width:100%;
 }
 
+.online{
+	border:3px solid #8BC53F;
+}
+
+.offline{
+	border:3px solid #696969;
+}
+
 .footer{
 	background:#f8f8f8;
 	border: 1px solid #e7e7e7;

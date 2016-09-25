@@ -1,7 +1,7 @@
 <?php
 	$viewName="index";
 	if(isset($_GET['v'])){
-		$view=urlencode($_GET['v']);
+		$view=$_GET['v'];
 		$viewPath='view/'.$view.".php";	
 		if (preg_match('/[^A-Za-z0-9]/', $view) || !file_exists($viewPath)){
 			$viewPath='view/index.php';
@@ -20,6 +20,7 @@
 		<title>Gorilla Warfare</title>
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/custom.css" rel="stylesheet">
+		<link rel="icon" href="img/favicon.png" type="image/png">
 	</head>
 	<body style="background-image: url(' img/ignasi_pattern_s.png')">
 		<div class="container">
