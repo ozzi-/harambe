@@ -17,4 +17,4 @@ Just people who like to play with other people. Although some of us also enjoy c
 <br>
 <img class="img-responsive img-middle" src="img/icon.png">
 <br>
-<a href="https://www.facebook.com/thevaultartoffkc" target="_blank" rel="noreferrer">Clan Logo by 'the Vault'!</a>
+<a href="https://www.facebook.com/thevaultartoffkc" target="_blank" rel="noreferrer"><b>Clan Logo by 'the Vault'</b></a>
