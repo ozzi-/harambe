@@ -1,0 +1,21 @@
+<h2>Members ({{numMembers}})</h2>
+<b>Legend:</b><br>
+<span class="glyphicon glyphicon-star" aria-hidden="true"></span> Supreme Leader
+<span class="glyphicon glyphicon-heart" aria-hidden="true"></span> First Lady
+<span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> Veteran
+<span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Member
+<br><br>
+<div class="row">
+  <ul class="list-group">
+    {{#each columns as |members|}}
+      <div class="col-md-6">
+        {{#each members as |member|}}
+          <li class="list-group-item">
+            <span class="glyphicon glyphicon-{{member-icon member}}" aria-hidden="true"></span>
+            [GW] {{member.name}}
+          </li>
+        {{/each}}
+      </div>
+    {{/each}}
+  </ul>
+</div>
