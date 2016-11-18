@@ -35,7 +35,7 @@
 							<span class="icon-bar"></span>
 							</button>
 							<a style="padding-right:5px" ui-sref="index" href="index.php">
-								<img src="img/logo.png">
+								<img style="max-height:50px;" src="img/favicon.png">
 							</a>
 						</div>
 						<div id="navbar" class="navbar-collapse collapse">

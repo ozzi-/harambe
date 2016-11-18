@@ -11,10 +11,10 @@ Such as:
 	<li>Rocket League</li>
 	<li>And many more</li>
 </ul>
-<br>
 We consider ourselves a 'fun' clan, no serious <i>hardcore mlg gaming</i>.<br>
 Just people who like to play with other people. Although some of us also enjoy competitive gameplay from time to time.<br>
 <br>
-<img class="img-responsive img-middle" src="img/icon.png">
+<a href="https://www.facebook.com/thevaultartoffkc" target="_blank" rel="noreferrer"><b>Clan Logo by 'the Vault', make sure to pay his page a visit!</b></a>
 <br>
-<a href="https://www.facebook.com/thevaultartoffkc" target="_blank" rel="noreferrer"><b>Clan Logo by 'the Vault'</b></a>
+<img class="img-responsive img-middle" style="max-width:500px" src="img/logo.png">
+
